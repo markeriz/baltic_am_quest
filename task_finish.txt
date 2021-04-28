@@ -1,8 +1,0 @@
-1. Sukurta duomenų bazė. Lentelės su ryšiais ir stulpeliais kokių reikia šiai užduočiai (migrations). Taip pat pridėta ir shema database kataloge (db_schema.vsd, MS Visio);
-2. Sukurta duomenų bazės pirminiams įrašams užpildyti (factories ir seeders);
-3. Sukurti modeliai (AddressBook - adresų knygelės modelis, AddressBookShare - adresų knygelės dalinimosi su registruotais vartotojais modelis, User - sistemos vartotojų modelis);
-4. Sukurti kontroleriai ir GUI naudojimui ir API naudojimui;
-5. Sukurta stebėjimo klasė, atliekanti užduotį kuomet yra registruojama nauja adresų knygelė į stulpelį įrašytu registruoto vartotojo ID;
-6. Sukurtos užklausų tikrinimo klasės (Validations);
-7. Atlikta optimizacija, kuomet sumažintos užklausos į duomenų bazę;
-8. Sukurta keleta testų;
