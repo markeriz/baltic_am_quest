@@ -5,5 +5,5 @@ Užduotis: Sukurti telefonų knygutę internete:
 * turi būti bent vienas unit testas
 +* turi būti bent vienas feature testas
 * aplikacija turi naudoti docker
-* pasirinktinai: arba aplikacija valdoma per GUI arba per API (galima įgyvendinti ir abu, ir vieną iš jų)
++* pasirinktinai: arba aplikacija valdoma per GUI arba per API (galima įgyvendinti ir abu, ir vieną iš jų)
 * tavo idėja ar pasiūlymai (neprivaloma, tačiau didelis pliusas 😊 )

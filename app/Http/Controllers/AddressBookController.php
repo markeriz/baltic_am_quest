@@ -14,7 +14,6 @@ class AddressBookController extends Controller
     public function index()
     {
         $address_books = auth()->user()->address_books;
-
         return view('address_book.index', compact('address_books'));
     }
 
