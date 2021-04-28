@@ -1,0 +1,9 @@
+Užduotis: Sukurti telefonų knygutę internete:
++* telefono knygutės įrašai prieinami registruotiems vartotojams (nuosavi)
++* galima pasidalinti telefono knygutės įrašu su kitu vartotoju (ir atšaukti dalinimąsi)
++* telefono knygutės įrašas: vardas, telefonas (pilnas CRUD)
+* turi būti bent vienas unit testas
++* turi būti bent vienas feature testas
+* aplikacija turi naudoti docker
+* pasirinktinai: arba aplikacija valdoma per GUI arba per API (galima įgyvendinti ir abu, ir vieną iš jų)
+* tavo idėja ar pasiūlymai (neprivaloma, tačiau didelis pliusas 😊 )
